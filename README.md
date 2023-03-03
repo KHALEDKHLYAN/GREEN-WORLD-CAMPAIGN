@@ -11,7 +11,7 @@ community.</p>
 <h5>Decentralized approach to data protection</h5>
 <h5>Easy to use and integrate with existing systems
 
-Installation
+<h1>Installation</h1>
 
   <h5>To install this project, follow the steps below:</h5>
   <h5>Clone this repository to your local machine</h5>
