@@ -35,6 +35,9 @@ To use this project, follow the steps below:
    <ul>Make the necessary changes and commit them</ul>
    <ul>Push the changes to your forked repository</ul>
    <ul>Submit a pull request to merge your changes into the main repository</ul>
+  
+  ![image](https://user-images.githubusercontent.com/95699811/222715749-4c0f39c7-e3d9-4451-9d8e-8ac4ba775180.png)
+
     
 <h1>License</h1>
 This project is licensed under the MIT License. See the LICENSE file for more information.
